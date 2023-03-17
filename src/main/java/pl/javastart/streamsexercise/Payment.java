@@ -1,5 +1,6 @@
 package pl.javastart.streamsexercise;
 
+import java.math.BigDecimal;
 import java.time.ZonedDateTime;
 import java.util.List;
 
